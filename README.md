@@ -1,0 +1,1 @@
+Python solutions for task from the www.practicepython.com
